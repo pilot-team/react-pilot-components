@@ -1,6 +1,6 @@
 # react-pilot-components
 
-> React Pirlot Components
+> React Pilot Components
 
 [![NPM](https://img.shields.io/npm/v/react-pilot-components.svg)](https://www.npmjs.com/package/react-pilot-components) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -13,15 +13,13 @@ npm install --save react-pilot-components
 ## Usage
 
 ```tsx
-import * as React from 'react'
+import * as React from 'react';
 
-import MyComponent from 'react-pilot-components'
+import MyComponent from 'react-pilot-components';
 
 class Example extends React.Component {
-  render () {
-    return (
-      <MyComponent />
-    )
+  render() {
+    return <MyComponent />;
   }
 }
 ```
