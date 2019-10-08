@@ -1,0 +1,8 @@
+{
+  "short_name": "react-pilot-components",
+  "name": "react-pilot-components",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
